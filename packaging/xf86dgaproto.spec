@@ -5,7 +5,7 @@ Release:  1
 Group:    Development/System
 License:  MIT
 URL:      http://www.x.org
-Source0:  %{name}-%{version}.tar.gz
+Source0:  %{name}-%{version}.tar.bz2
 
 BuildRequires: pkgconfig
 BuildRequires: pkgconfig(xorg-macros)
