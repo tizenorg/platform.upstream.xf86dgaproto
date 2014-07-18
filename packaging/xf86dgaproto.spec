@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:     xf86dgaproto
 Summary:  X.Org X11 Protocol xf86dgaproto
 Version:  2.1
